@@ -1,0 +1,36 @@
+{
+  "name": "material-ui-date-picker-react-hook-form-example",
+  "version": "5.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@date-io/date-fns": "2.15.0",
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/material": "latest",
+    "@mui/x-date-pickers": "5.0.0",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "date-fns": "2.29.2",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-hook-form": "7.34.2",
+    "react-scripts": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
